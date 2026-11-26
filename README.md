@@ -2,7 +2,7 @@
 
 Software engineer in Bengaluru (B.Tech CSE, IIIT Jabalpur '26) with about a year of production experience on multi-tenant ticketing platforms for Japanese event clients (Django, PostgreSQL, Redis, AWS). I also build and ship AI products end to end: LangGraph agents, hybrid RAG on pgvector, and eval suites that gate prompt changes in CI.
 
-**Open to SWE roles** (on-site, hybrid or remote). Available immediately.
+**Open to SWE roles** (on-site, hybrid or remote).
 
 ## What I've built
 - **Rate limiting at scale:** Redis rate limiting across 15 tiered rules for a high-traffic ticketing platform, plus a root-cause fix for a client-IP bug behind AWS ALB and nginx.
