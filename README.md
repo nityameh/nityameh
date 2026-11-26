@@ -1,28 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nitya Mehta</h1>
-<h3 align="center">I am passionate competetive programmer</h3>
+# Hi, I'm Nitya Mehta 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nityameh&label=Profile%20views&color=0e75b6&style=flat" alt="nityameh" /> </p>
+Software engineer in Bengaluru (B.Tech CSE, IIIT Jabalpur '26) with about a year of production experience on multi-tenant ticketing platforms for Japanese event clients (Django, PostgreSQL, Redis, AWS). I also build and ship AI products end to end: LangGraph agents, hybrid RAG on pgvector, and eval suites that gate prompt changes in CI.
 
-- 🌱 I’m currently learning **ReactJS**
+**Open to SWE roles** (on-site, hybrid or remote). Available immediately.
 
-- 💬 Ask me about **c++ questions**
+## What I've built
+- **Rate limiting at scale:** Redis rate limiting across 15 tiered rules for a high-traffic ticketing platform, plus a root-cause fix for a client-IP bug behind AWS ALB and nginx.
+- **Event-driven pipelines:** EventBridge → Lambda → idempotent Django endpoints, sending email in 500-recipient batches with per-batch failure isolation.
+- **Secure multi-tenant systems:** email 2FA, OTP password recovery, tenant isolation (IDOR) and race-condition fixes; deployed on AWS ECS Fargate and load-tested to 10,000 concurrent users.
+- **AI engineering:** tool-calling agents with human approval, hybrid retrieval (pgvector + full-text search, fused with RRF), and CI-gated evals.
+- **Competitive programming:** Meta Hacker Cup 2024 Round 2; 1600+ problems solved.
 
-- 📫 How to reach me **mehtanitya01@gmail.com**
+## Projects
+- **Orga:** AI assistant on WhatsApp, Telegram and web for Indian freelancers. LangGraph agent, hybrid RAG with cited answers, Claude and Groq fallback chain, 32 evals in CI. Live with real users.
+- **[n-stack](https://github.com/nityameh/n-stack):** Claude Code plugin that turns agent rules (no secrets, no skipped tests, read-only agents) into enforced hooks, plus a 15-skill dev lifecycle.
+- **[IPL Batsman Stats](https://github.com/nityameh/ipl-batsman-stats):** analytics over 1,169 ball-by-ball IPL matches (2008–2025), with LLM-powered natural-language search validated through Zod.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitya-mehta-624027214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitya-mehta-624027214" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nmiethytaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nmiethytaa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/agentdeath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agentdeath" height="30" width="40" /></a>
-</p>
+## Tech
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, SQL, C++, Java |
+| **Backend** | Django, Django REST Framework, Node.js, Express, FastAPI |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Data** | PostgreSQL, pgvector, Redis, Prisma, SQLite |
+| **AI** | LangGraph, RAG, LLM evals, Claude API, Groq, Gemini |
+| **Cloud & DevOps** | AWS (ECS Fargate, Lambda, RDS, ElastiCache, ALB, EventBridge), Terraform, Docker, GitHub Actions |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nityameh&show_icons=true&locale=en&layout=compact" alt="nityameh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nityameh&show_icons=true&locale=en" alt="nityameh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nityameh&" alt="nityameh" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nityameh" alt="nityameh" /></a> </p>
+## Contact
+📫 [mehtanitya01@gmail.com](mailto:mehtanitya01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nitya-mehta-624027214/)
