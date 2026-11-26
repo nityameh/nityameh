@@ -12,7 +12,7 @@ Software engineer in Bengaluru (B.Tech CSE, IIIT Jabalpur '26) with about a year
 - **Competitive programming:** Meta Hacker Cup 2024 Round 2; 1600+ problems solved.
 
 ## Projects
-- **Orga:** AI assistant on WhatsApp, Telegram and web for Indian freelancers. LangGraph agent, hybrid RAG with cited answers, Claude and Groq fallback chain, 32 evals in CI. Live with real users.
+- **[Orga](https://github.com/nityameh/orga-bot):** AI assistant on WhatsApp, Telegram and web for Indian freelancers. LangGraph agent, hybrid RAG with cited answers, Claude and Groq fallback chain, 32 evals in CI. Live with real users.
 - **[n-stack](https://github.com/nityameh/n-stack):** Claude Code plugin that turns agent rules (no secrets, no skipped tests, read-only agents) into enforced hooks, plus a 15-skill dev lifecycle.
 - **[IPL Batsman Stats](https://github.com/nityameh/ipl-batsman-stats):** analytics over 1,169 ball-by-ball IPL matches (2008–2025), with LLM-powered natural-language search validated through Zod.
 
